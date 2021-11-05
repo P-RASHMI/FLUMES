@@ -1,4 +1,9 @@
 
+TO check Flumes version:The command is : flume-ng version
+
+the flumes version is :Flume 1.9.0
+Hadoop version is :3.3.1
+python version is(python3 --version) :3.8.10
 
 To write python code for getting live stock data using the link provided(python3)
 
